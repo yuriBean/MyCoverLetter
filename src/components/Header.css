@@ -1,0 +1,46 @@
+@media (max-width: 768px) {
+    .hero-section {
+      height: auto;
+      padding: 20px;
+    }
+  
+    .hero-section h1 {
+      font-size: 30px;
+    }
+  
+    .hero-section .btn-primary {
+      width: 100%;
+    }
+  
+    .image-grid {
+      margin: 0px 20px;
+    }
+  
+    .card-section .card {
+      margin: 50px 20px;
+    }
+  
+    .products-section .card {
+      height: auto;
+    }
+  
+    .card-section .card {
+      margin: 50px 20px;
+    }
+  
+    .card-section .card img {
+      width: 100%;
+    }
+  
+    .card-section .card .card-body {
+      padding: 20px;
+    }
+  
+    .card-section .card .card-title {
+      font-size: 30px;
+    }
+  
+    .card-section .card .card-text {
+      font-size: 16px;
+    }
+  }
